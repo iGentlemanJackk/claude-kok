@@ -1,11 +1,14 @@
 {
-  "name": "claude-kok",
-  "owner": { "name": "iGentlemanJackk" },
+  "name": "kok",
+  "owner": {
+    "name": "iGentlemanJackk"
+  },
   "plugins": [
     {
-      "name": "claude-kok",
-      "source": "./plugins/claude-kok",
+      "name": "kok",
+      "source": "./plugins/kok",
       "description": "Rätt modell och effort per uppgift: agenterna scout (Haiku), reviewer (Opus), planner (Fable) och kommandot /modellval."
     }
-  ]
+  ],
+  "description": "Plugin för Claude Code: rätt modell och effort per uppgift."
 }

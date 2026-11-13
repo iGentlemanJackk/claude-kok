@@ -1,6 +1,8 @@
 {
-  "name": "claude-kok",
+  "name": "kok",
   "version": "0.1.0",
   "description": "Rätt modell och effort per uppgift: agenterna scout (Haiku), reviewer (Opus), planner (Fable) och kommandot /modellval.",
-  "author": { "name": "iGentlemanJackk" }
+  "author": {
+    "name": "iGentlemanJackk"
+  }
 }
