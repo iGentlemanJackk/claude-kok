@@ -1,7 +1,7 @@
 {
   "name": "kok",
-  "version": "0.1.0",
-  "description": "Rätt modell och effort per uppgift: agenterna scout (Haiku), reviewer (Opus), planner (Fable) och kommandot /modellval.",
+  "version": "0.2.0",
+  "description": "Rätt modell och effort per uppgift: agenterna scout (Haiku), reviewer (Opus), planner (Fable) och kommandot /modellval; prestandagranskning för WoW-addons (/prestanda) och webbappar (/webbprestanda).",
   "author": {
     "name": "iGentlemanJackk"
   }
